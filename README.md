@@ -123,7 +123,7 @@ insurance-category-prediction-api/
 
 ---
 
-## 🧠 Built With
+## Built With
 
 * Python 3.11
 * FastAPI
