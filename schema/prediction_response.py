@@ -11,7 +11,7 @@ class PredictionResponse(BaseModel):
     confidence: float = Field(
         ...,
         description="Model confidence score for  the predicted class (range: 0 to 1)",
-        exmaple = "0.8457"
+        example = "0.8457"
 
     )
 
